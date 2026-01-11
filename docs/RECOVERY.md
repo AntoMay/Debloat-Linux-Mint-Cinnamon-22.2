@@ -31,3 +31,9 @@ or
 ```bash
 sudo dpkg-reconfigure lightdm
 ```
+## Fix Broken Packages
+
+```bash
+sudo apt --fix-broken install
+sudo apt autoremove
+```
