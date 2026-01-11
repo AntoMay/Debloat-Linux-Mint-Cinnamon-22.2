@@ -19,3 +19,15 @@ sudo apt install cinnamon-desktop-environment lightdm
 sudo dpkg-reconfigure lightdm
 sudo reboot
 ```
+
+## Switch Display Manager
+
+```bash
+sudo dpkg-reconfigure sddm
+```
+
+or
+
+```bash
+sudo dpkg-reconfigure lightdm
+```
