@@ -163,7 +163,6 @@ sudo apt autoremove
 ---
 
 ## 👤 Author & Credits
-
 * Script & Tutorial by: **AntoMay**
 * Connect: Facebook - [AntoMay](https://www.facebook.com/epoy.saputra.73/)
 * Feel free to **fork, star, and contribute** to this project!
@@ -173,6 +172,4 @@ sudo apt autoremove
 - [Disclaimer](docs/DISCLAIMER.md)
 - [Recovery Guide](docs/RECOVERY.md)
 - [KDE Customization](docs/KDE_CUSTOMIZATION.md)
-- [PDF Guide](docs/Linux_Mint_22.2_Debloat_to_KDE_Kubuntu_FULL_EN_ID.pdf)
-
----
+- [PDF Guide](Linux_Mint_22.2_Debloat_KDE_Kubuntu_Tutorial_EN_ID.pdf)
