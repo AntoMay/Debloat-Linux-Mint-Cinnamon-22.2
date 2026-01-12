@@ -170,11 +170,9 @@ sudo apt autoremove
 
 ## 📄 Documentation
 
-```md
 - [Disclaimer](docs/DISCLAIMER.md)
 - [Recovery Guide](docs/RECOVERY.md)
 - [KDE Customization](docs/KDE_CUSTOMIZATION.md)
 - [PDF Guide](docs/Linux_Mint_22.2_Debloat_to_KDE_Kubuntu_FULL_EN_ID.pdf)
 
-```
 ---
