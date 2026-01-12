@@ -165,7 +165,7 @@ sudo apt autoremove
 ## 👤 Author & Credits
 
 * Script & Tutorial by: **AntoMay**
-* Connect: Facebook - Epoy Saputra
+* Connect: Facebook - [AntoMay](https://www.facebook.com/epoy.saputra.73/)
 * Feel free to **fork, star, and contribute** to this project!
 
 ## 📄 Documentation
