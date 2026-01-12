@@ -1,5 +1,10 @@
 # Linux Mint 22.2 Debloat & KDE Switcher
 
+This project provides a debloat script for Linux Mint Cinnamon 22.x.
+It removes Cinnamon, GNOME, and Linux Mint components and prepares the system
+for installing KDE Plasma, similar to Kubuntu.
+
+
 ![Linux Mint](https://img.shields.io/badge/Base-Linux%20Mint%2022.2-green?style=flat-square)
 ![KDE Plasma](https://img.shields.io/badge/Desktop-KDE%20Plasma-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Tested-success?style=flat-square)
