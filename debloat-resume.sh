@@ -34,8 +34,8 @@ sudo apt purge -y libreoffice-core || true
 sudo apt purge -y libreoffice-common || true
 sudo apt purge -y libreoffice-draw || true
 sudo apt purge -y libreoffice-help-common || true
-sudo apt purge -y libreoffic-help-en-us || true
-sudo apt purge -y libreofice-impress || true
+sudo apt purge -y libreoffice-help-en-us || true
+sudo apt purge -y libreoffice-impress || true
 sudo apt purge -y libreoffice-uiconfig-common || true
 sudo apt purge -y libreoffice-style-colibre || true
 sudo apt purge -y libreoffice-uiconfig-calc || true
@@ -68,7 +68,7 @@ sudo apt purge -y mint-info-cinnamon || true
 
 echo "=== Purge Additional apps ==="
 sudo apt purge -y bulky || true
-sudo apt purge -y fingwit || true
+sudo apt purge -y fingwit fprintd libpam-fprintd || true
 sudo apt purge -y metacity || true
 sudo apt purge -y captain || true
 sudo apt purge -y gufw || true
